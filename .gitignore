@@ -1,0 +1,8 @@
+*/__pycache__/*
+*.pyc
+*.egg-info
+__pycache__/
+keras_jukebox/__pycache__/*
+*.egg-info
+build/*
+dist/*
